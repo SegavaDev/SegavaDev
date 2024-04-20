@@ -10,35 +10,48 @@ Si desea contactarme, puede enviarme un email a 📬 **segava.dev@gmail.com** y 
 
 Deseo revolucionar en el mundo de las soluciones empresariales.
 
-## Nivel profesional:
+## 💻 Nivel profesional:
 
 🔰 **Junior**
 
-## Tecnologías conocidas
+## 🛠️ Tecnologías conocidas
 
 * ***FrontEnd***
 
-    * Html
-    * CSS
-    * Bootstrap
-    * JavaScript
+<div style="display: flex; justify-content: space-evenly">
+    <img src="./assets/html.png" alt="html logo" width=100px; height=90px>
+    <img src="./assets/css.png" alt="html logo" width=100px; height=90px>
+    <img src="./assets/javaScript.png" alt="html logo" width=100px; height=90px>
+    <img src="./assets/bootstrap.png" alt="html logo" width=100px; height=90px>
+</div>
+
+---
 
 * ***Backend***
 
-    * Java v.17
-    * Spring boot 3.x
-    * Spring Security
-    * JWT
-    * Node.js (JavaScript)
+<div style="display: flex; justify-content: space-evenly">
+    <img src="./assets/java.png" alt="html logo" width=100px; height=90px>
+    <img src="./assets/Spring Boot.png" alt="html logo" width=100px; height=90px>
+    <img src="./assets/jwt.png" alt="html logo" width=100px; height=90px>
+    <img src="./assets/nodejs.png" alt="html logo" width=100px; height=90px>
+</div>
+
+---
 
 * ***Bases de datos***
 
-    * MySQL
-    * PostgreSQL
+<div style="display: flex; justify-content: space-evenly">
+    <img src="./assets/MySQL.png" alt="html logo" width=100px; height=90px>
+    <img src="./assets/postgresql.png" alt="html logo" width=100px; height=90px>
+</div>
+
+---
 
 * ***Sin enfoque aún***
 
-    * Python
+<div style="display: flex; justify-content: space-evenly">
+    <img src="./assets/python.png" alt="html logo" width=100px; height=90px>
+</div>
 
 ---
 
