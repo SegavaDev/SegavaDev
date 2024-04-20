@@ -20,9 +20,9 @@ Deseo revolucionar en el mundo de las soluciones empresariales.
 
 <div style="display: flex; justify-content: space-evenly">
     <img src="./assets/html.png" alt="html logo" width=100px; height=90px>
-    <img src="./assets/css.png" alt="html logo" width=100px; height=90px>
-    <img src="./assets/javaScript.png" alt="html logo" width=100px; height=90px>
-    <img src="./assets/bootstrap.png" alt="html logo" width=100px; height=90px>
+    <img src="./assets/css.png" alt="css logo" width=100px; height=90px>
+    <img src="./assets/javaScript.png" alt="javaScript logo" width=100px; height=90px>
+    <img src="./assets/bootstrap.png" alt="Bootstrap logo" width=100px; height=90px>
 </div>
 
 ---
@@ -30,19 +30,19 @@ Deseo revolucionar en el mundo de las soluciones empresariales.
 * ***Backend***
 
 <div style="display: flex; justify-content: space-evenly">
-    <img src="./assets/java.png" alt="html logo" width=100px; height=90px>
-    <img src="./assets/Spring Boot.png" alt="html logo" width=100px; height=90px>
-    <img src="./assets/jwt.png" alt="html logo" width=100px; height=90px>
-    <img src="./assets/nodejs.png" alt="html logo" width=100px; height=90px>
+    <img src="./assets/java.png" alt="Java logo" width=100px; height=90px>
+    <img src="./assets/Spring Boot.png" alt="Spring boot logo" width=100px; height=90px>
+    <img src="./assets/jwt.png" alt="JWT logo" width=100px; height=90px>
+    <img src="./assets/nodejs.png" alt="NodeJs logo" width=100px; height=90px>
 </div>
 
 ---
 
 * ***Bases de datos***
 
-<div style="display: flex; justify-content: space-evenly">
-    <img src="./assets/MySQL.png" alt="html logo" width=100px; height=90px>
-    <img src="./assets/postgresql.png" alt="html logo" width=100px; height=90px>
+<div style="display: flex; justify-content: space-around">
+    <img src="./assets/MySQL.png" alt="MySQL logo" width=100px; height=90px>
+    <img src="./assets/postgresql.png" alt="PostgreSQL logo" width=100px; height=90px>
 </div>
 
 ---
