@@ -1,6 +1,6 @@
 # Hola 👋,
 
-Mi nombre es ***Sergio Garavito Valero*** y esta es mi cuenta oficial, estaré actualizándola con nuevos proyectos como forma de entrenamiento para alcanzar mejorar mis habilidades actuales y adquirir nuevas habilidades en el proceso hacia mis metas propuestas.
+Mi nombre es ***Sergio Garavito Valero*** y esta es mi cuenta oficial, estaré actualizándola con nuevos proyectos como forma de entrenamiento para alcanzar mejorar mis habilidades actuales y adquirir nuevas destrezas en el proceso hacia mis metas propuestas.
 
 Tengo interés en el desarrollo de sistemas empresariales que resuelvan los diferentes retos que deben afrontar las distintas áreas de una o varias organizaciones, manteniendo la integridad y buenas practicas en la implementación de soluciones.
 
