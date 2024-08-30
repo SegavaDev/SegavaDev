@@ -4,7 +4,7 @@ Mi nombre es ***Sergio Garavito Valero*** y esta es mi cuenta oficial, estaré a
 
 Tengo interés en el desarrollo de sistemas empresariales que resuelvan los diferentes retos que deben afrontar las distintas áreas de una o varias organizaciones, manteniendo la integridad y buenas practicas en la implementación de soluciones.
 
-Actualmente estoy adquiriendo y mejorando mis habilidades en Java y Spring Boot.
+Actualmente estoy adquiriendo y mejorando mis habilidades en Angular y Spring Boot.
 
 Si desea contactarme, puede enviarme un email a 📬 **segava.dev@gmail.com** y con gusto responderé en el menor tiempo posible.
 
@@ -23,6 +23,7 @@ Deseo revolucionar en el mundo de las soluciones empresariales.
     <img src="./assets/css.png" alt="css logo" width=100px; height=90px>
     <img src="./assets/javaScript.png" alt="javaScript logo" width=100px; height=90px>
     <img src="./assets/bootstrap.png" alt="Bootstrap logo" width=100px; height=90px>
+    <img src="./assets/angular.png" alt="Angular logo" width=100px; height=90px>
 </div>
 
 ---
