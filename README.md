@@ -55,5 +55,3 @@ Deseo revolucionar en el mundo de las soluciones empresariales.
 </div>
 
 ---
-
-Los invito a dar un vistazo y agradezco todo aporte que pueda ayudarme a crecer en el maravilloso mundo del desarrollo.
