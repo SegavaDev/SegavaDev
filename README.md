@@ -57,6 +57,6 @@ Deseo revolucionar en el mundo de las soluciones empresariales.
 ---
 
 
-## 💻 Otros repositorios:
+## 👣 Otros repositorios:
 
 1. **[Camper en Campuslands](https://github.com/CamperSergioGaravito)**
